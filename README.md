@@ -1,13 +1,6 @@
 # Practical Assignment 3: Performance Evaluation of Regression Model
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Practical-03-blue" />
-  <img src="https://img.shields.io/badge/Domain-Machine%20Learning-purple" />
-  <img src="https://img.shields.io/badge/Language-Python-yellow?logo=python" />
-  <img src="https://img.shields.io/badge/Models-Linear%20Regression-green" />
-</p>
 
----
 
 ## 1. Project Overview
 
